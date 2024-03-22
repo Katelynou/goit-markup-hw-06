@@ -328,8 +328,8 @@ img {
     .value-list {
         flex-direction: row;
         flex-wrap: wrap;
-        column-gap: 72px;
-        row-gap: 24px;
+        column-gap: 24px;
+        row-gap: 72px;
     }
     .value-header {
         text-align: left;
@@ -759,10 +759,7 @@ button {
         flex-direction: row;
         flex-wrap: wrap;
         align-items: baseline;
-        max-width: 768px;
-        padding-left: 108px;
-        padding-right: 108px;
-        
+        max-width: 584px;
     }
     .footer-logo-par {
         margin-right: 24px;
